@@ -1,0 +1,95 @@
+[2019-05-19 11:44:45.645] [sharedprocess] [info] main {"machineId":"09a8a7ac53390d2aa241723bc421c671ef76cbcb851c562b80e78b47f4871e7d"}
+[2019-05-19 11:44:49.582] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-19 11:44:50.679] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-19 11:44:59.971] [sharedprocess] [info] Deleted from disk dart-code.flutter /home/gabo/.vscode/extensions/dart-code.flutter-2.25.0
+[2019-05-19 11:45:01.001] [sharedprocess] [info] Deleted from disk dart-code.dart-code /home/gabo/.vscode/extensions/dart-code.dart-code-2.25.0
+[2019-05-19 11:45:02.190] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-19 11:45:02.431] [sharedprocess] [info] Deleted from disk ms-vscode.csharp /home/gabo/.vscode/extensions/ms-vscode.csharp-1.18.0
+[2019-05-19 11:45:02.446] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-19 11:45:02.475] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-19 11:45:03.048] [sharedprocess] [info] Deleted from disk streetsidesoftware.code-spell-checker /home/gabo/.vscode/extensions/streetsidesoftware.code-spell-checker-1.6.10
+[2019-05-19 11:45:03.063] [sharedprocess] [info] Deleted from disk james-yu.latex-workshop /home/gabo/.vscode/extensions/james-yu.latex-workshop-6.3.0
+[2019-05-19 11:45:04.484] [sharedprocess] [info] Installing extension: donjayamanne.python-extension-pack
+[2019-05-19 11:45:04.486] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2019-05-19 11:45:04.488] [sharedprocess] [info] Installing extension: hookyqr.beautify
+[2019-05-19 11:45:04.489] [sharedprocess] [info] Installing extension: james-yu.latex-workshop
+[2019-05-19 11:45:04.490] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2019-05-19 11:45:04.491] [sharedprocess] [info] Installing extension: ms-vscode.csharp
+[2019-05-19 11:45:04.492] [sharedprocess] [info] Installing extension: streetsidesoftware.code-spell-checker
+[2019-05-19 11:45:04.493] [sharedprocess] [info] Installing extension: visualstudioexptteam.vscodeintellicode
+[2019-05-19 11:45:04.494] [sharedprocess] [info] Installing extension: zignd.html-css-class-completion
+[2019-05-19 11:45:04.603] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-19 11:45:04.607] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-19 11:45:04.609] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-19 11:45:04.612] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-19 11:45:04.615] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-19 11:45:04.618] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-19 11:45:04.620] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-19 11:45:04.623] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-19 11:45:04.626] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-19 11:45:08.758] [sharedprocess] [info] Downloaded extension: donjayamanne.python-extension-pack /tmp/66a27eba-e016-4e0c-adeb-dbdc8aa82033
+[2019-05-19 11:45:08.793] [sharedprocess] [info] Extracted extension to /home/gabo/.vscode/extensions/.donjayamanne.python-extension-pack-1.6.0: donjayamanne.python-extension-pack
+[2019-05-19 11:45:08.793] [sharedprocess] [info] Renamed to /home/gabo/.vscode/extensions/donjayamanne.python-extension-pack-1.6.0
+[2019-05-19 11:45:08.794] [sharedprocess] [info] Installation completed. donjayamanne.python-extension-pack
+[2019-05-19 11:45:08.924] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-19 11:45:08.929] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-19 11:45:08.929] [sharedprocess] [info] Extensions installed successfully: donjayamanne.python-extension-pack
+[2019-05-19 11:45:10.544] [sharedprocess] [info] Downloaded extension: ms-vscode.csharp /tmp/b77541c5-b076-4afd-86f9-b3be175d4101
+[2019-05-19 11:45:10.593] [sharedprocess] [info] Extracted extension to /home/gabo/.vscode/extensions/.ms-vscode.csharp-1.19.1: ms-vscode.csharp
+[2019-05-19 11:45:10.593] [sharedprocess] [info] Renamed to /home/gabo/.vscode/extensions/ms-vscode.csharp-1.19.1
+[2019-05-19 11:45:10.596] [sharedprocess] [info] Installation completed. ms-vscode.csharp
+[2019-05-19 11:45:10.697] [sharedprocess] [info] Extensions installed successfully: ms-vscode.csharp
+[2019-05-19 11:45:12.967] [sharedprocess] [info] Downloaded extension: hookyqr.beautify /tmp/fb200324-fc1a-4074-b300-6f87ec1292a7
+[2019-05-19 11:45:13.181] [sharedprocess] [info] Extracted extension to /home/gabo/.vscode/extensions/.hookyqr.beautify-1.5.0: hookyqr.beautify
+[2019-05-19 11:45:13.181] [sharedprocess] [info] Renamed to /home/gabo/.vscode/extensions/hookyqr.beautify-1.5.0
+[2019-05-19 11:45:13.181] [sharedprocess] [info] Installation completed. hookyqr.beautify
+[2019-05-19 11:45:13.269] [sharedprocess] [info] Extensions installed successfully: hookyqr.beautify
+[2019-05-19 11:45:24.253] [sharedprocess] [info] Downloaded extension: visualstudioexptteam.vscodeintellicode /tmp/cc7420e3-2d93-41d6-81e3-4cd9f2553089
+[2019-05-19 11:45:24.289] [sharedprocess] [info] Extracted extension to /home/gabo/.vscode/extensions/.visualstudioexptteam.vscodeintellicode-1.1.6: visualstudioexptteam.vscodeintellicode
+[2019-05-19 11:45:24.289] [sharedprocess] [info] Renamed to /home/gabo/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.1.6
+[2019-05-19 11:45:24.290] [sharedprocess] [info] Installation completed. visualstudioexptteam.vscodeintellicode
+[2019-05-19 11:45:24.528] [sharedprocess] [info] Extensions installed successfully: visualstudioexptteam.vscodeintellicode
+[2019-05-19 11:45:25.652] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-05-19 11:45:32.604] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /tmp/255b4946-6a5b-42dc-98d5-b975808c2761
+[2019-05-19 11:45:33.327] [sharedprocess] [info] Extracted extension to /home/gabo/.vscode/extensions/.ms-vscode.cpptools-0.23.1: ms-vscode.cpptools
+[2019-05-19 11:45:33.327] [sharedprocess] [info] Renamed to /home/gabo/.vscode/extensions/ms-vscode.cpptools-0.23.1
+[2019-05-19 11:45:33.328] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2019-05-19 11:45:33.413] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools
+[2019-05-19 11:45:49.728] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-19 11:45:49.744] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-19 11:45:51.225] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-19 11:45:51.246] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-19 11:45:52.057] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-19 11:45:52.666] [sharedprocess] [info] Downloaded extension: zignd.html-css-class-completion /tmp/723da05d-1a11-417b-a18f-8c389aacf2a5
+[2019-05-19 11:45:53.008] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2019-05-19 11:45:53.008] [sharedprocess] [info] Installing extension: james-yu.latex-workshop
+[2019-05-19 11:45:53.008] [sharedprocess] [info] Installing extension: streetsidesoftware.code-spell-checker
+[2019-05-19 11:45:53.008] [sharedprocess] [info] Installing extension: zignd.html-css-class-completion
+[2019-05-19 11:45:53.982] [sharedprocess] [info] Extracted extension to /home/gabo/.vscode/extensions/.zignd.html-css-class-completion-1.19.0: zignd.html-css-class-completion
+[2019-05-19 11:45:53.982] [sharedprocess] [info] Renamed to /home/gabo/.vscode/extensions/zignd.html-css-class-completion-1.19.0
+[2019-05-19 11:45:53.983] [sharedprocess] [info] Installation completed. zignd.html-css-class-completion
+[2019-05-19 11:45:54.047] [sharedprocess] [info] Extensions installed successfully: zignd.html-css-class-completion
+[2019-05-19 11:46:34.396] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-19 11:46:34.402] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-19 11:46:34.405] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-19 11:46:34.409] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-19 11:46:34.419] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-19 11:46:34.427] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-19 11:46:34.435] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-19 11:47:01.808] [sharedprocess] [error] Failed to install extension: esbenp.prettier-vscode 
+[2019-05-19 11:47:01.813] [sharedprocess] [error] Failed to install extension: james-yu.latex-workshop 
+[2019-05-19 11:47:09.510] [sharedprocess] [error] Failed to install extension: streetsidesoftware.code-spell-checker 
+[2019-05-19 11:47:11.950] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-19 11:47:11.952] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-19 11:47:11.958] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-19 11:47:11.975] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-19 11:47:11.980] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-19 11:47:11.986] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-19 11:50:52.183] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-19 11:55:52.292] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-19 12:00:52.374] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-19 12:05:52.431] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-19 12:10:52.502] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-19 12:16:23.263] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-19 12:21:23.319] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-19 12:26:23.364] [sharedprocess] [info] Scanned user extensions: 30

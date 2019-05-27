@@ -1,0 +1,6 @@
+2018/07/26-14:08:58.556 2085 Reusing MANIFEST /home/gabo/.config/skypeforlinux/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2018/07/26-14:08:58.557 2085 Recovering log #3
+2018/07/26-14:08:59.155 2085 Reusing old log /home/gabo/.config/skypeforlinux/IndexedDB/file__0.indexeddb.leveldb/000003.log 
+2018/07/26-14:10:01.114 2953 Level-0 table #5: started
+2018/07/26-14:10:01.412 2953 Level-0 table #5: 1512968 bytes OK
+2018/07/26-14:10:01.699 2953 Delete type=0 #3

@@ -1,0 +1,15 @@
+[Default Applications]
+text/html=google-chrome.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/unknown=google-chrome.desktop
+application/x-osptracker=tracker.desktop
+x-scheme-handler/vscode=code-url-handler.desktop
+text/x-arduino=arduino-arduinoide.desktop
+x-scheme-handler/webcal=google-chrome.desktop
+
+[Added Associations]
+application/x-ms-dos-executable=wine.desktop;
+application/pdf=libreoffice-draw.desktop;
+application/x-cd-image=gnome-disk-image-mounter.desktop;

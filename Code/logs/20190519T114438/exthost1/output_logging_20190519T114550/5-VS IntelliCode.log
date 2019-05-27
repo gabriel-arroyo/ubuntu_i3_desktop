@@ -1,0 +1,7 @@
+Acquiring model 'intellisense-members' for python
+Querying IntelliCode service for available models.
+Couldn't reach service Error Message: Client network socket disconnected before secure TLS connection was established, (Error)
+Could not reach the IntelliCode service. Checking the local model cache.
+None of the cached models match.
+Couldn't download IntelliCode model. Please check your network connectivity or firewall settings. Error Message: Client network socket disconnected before secure TLS connection was established, (Error)
+No model available for Python, cannot continue.

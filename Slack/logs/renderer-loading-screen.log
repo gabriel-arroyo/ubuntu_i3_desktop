@@ -1,0 +1,793 @@
+[09/02/18, 20:00:00:263] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[09/02/18, 20:00:00:264] info: ║      Slack 3.3.1, linux 4.15.0-33-generic on x64 at 09/02/18, 20:00:00:260      ║
+[09/02/18, 20:00:00:264] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[09/02/18, 20:00:00:392] info: Initializing local storage instance at path: /home/gabo/.config/Slack/local-settings.json
+[09/02/18, 20:00:01:333] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[09/02/18, 20:00:01:412] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[09/02/18, 20:00:01:964] info: Store: SET_NETWORK_STATUS online
+[09/02/18, 20:00:07:277] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "TC3F9FM3J"
+}
+[09/02/18, 20:00:07:281] info: Store: MAIN_WINDOW_SHOWN
+[09/05/18, 07:11:39:576] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[09/05/18, 07:11:39:577] info: ║      Slack 3.3.1, linux 4.15.0-33-generic on x64 at 09/05/18, 07:11:39:573      ║
+[09/05/18, 07:11:39:577] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[09/05/18, 07:11:39:698] info: Initializing local storage instance at path: /home/gabo/.config/Slack/local-settings.json
+[09/05/18, 07:11:39:711] info: TranslationLookup: locale set to es-ES for renderer
+[09/05/18, 07:11:41:207] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[09/05/18, 07:11:41:389] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[09/05/18, 07:11:41:786] info: Store: SET_NETWORK_STATUS online
+[09/05/18, 07:11:46:336] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T8RKRFTEX"
+}
+[09/05/18, 07:11:46:339] info: Store: MAIN_WINDOW_SHOWN
+[09/06/18, 18:13:38:408] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[09/06/18, 18:13:38:409] info: ║      Slack 3.3.1, linux 4.15.0-33-generic on x64 at 09/06/18, 18:13:38:404      ║
+[09/06/18, 18:13:38:409] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[09/06/18, 18:13:38:556] info: Initializing local storage instance at path: /home/gabo/.config/Slack/local-settings.json
+[09/06/18, 18:13:39:517] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[09/06/18, 18:13:39:589] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[09/06/18, 18:13:40:179] info: Store: SET_NETWORK_STATUS online
+[09/06/18, 18:13:45:397] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "TC51T0LSH"
+}
+[09/06/18, 18:13:45:402] info: Store: MAIN_WINDOW_SHOWN
+[09/10/18, 07:14:29:033] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[09/10/18, 07:14:29:034] info: ║      Slack 3.3.1, linux 4.15.0-33-generic on x64 at 09/10/18, 07:14:29:030      ║
+[09/10/18, 07:14:29:034] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[09/10/18, 07:14:29:203] info: Initializing local storage instance at path: /home/gabo/.config/Slack/local-settings.json
+[09/10/18, 07:14:30:835] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[09/10/18, 07:14:30:987] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[09/10/18, 07:14:31:377] info: Store: SET_NETWORK_STATUS online
+[09/10/18, 07:14:35:750] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "TC3F9FM3J"
+}
+[09/10/18, 07:14:35:764] info: Store: MAIN_WINDOW_SHOWN
+[09/13/18, 07:39:25:019] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[09/13/18, 07:39:25:020] info: ║      Slack 3.3.1, linux 4.15.0-34-generic on x64 at 09/13/18, 07:39:25:017      ║
+[09/13/18, 07:39:25:020] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[09/13/18, 07:39:25:129] info: Initializing local storage instance at path: /home/gabo/.config/Slack/local-settings.json
+[09/13/18, 07:39:26:391] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[09/13/18, 07:39:26:539] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[09/13/18, 07:39:26:973] info: Store: SET_NETWORK_STATUS online
+[09/13/18, 07:39:32:395] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "TCS2VGCAF"
+}
+[09/13/18, 07:39:32:411] info: Store: MAIN_WINDOW_SHOWN
+[09/13/18, 13:01:20:122] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[09/13/18, 13:01:20:123] info: ║      Slack 3.3.1, linux 4.15.0-34-generic on x64 at 09/13/18, 13:01:20:105      ║
+[09/13/18, 13:01:20:123] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[09/13/18, 13:01:20:339] info: Initializing local storage instance at path: /home/gabo/.config/Slack/local-settings.json
+[09/13/18, 13:01:20:360] info: TranslationLookup: locale set to es-ES for renderer
+[09/13/18, 13:01:21:430] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[09/13/18, 13:01:21:553] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[09/13/18, 13:01:22:012] info: Store: SET_NETWORK_STATUS online
+[09/13/18, 13:01:26:985] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T8RKRFTEX"
+}
+[09/13/18, 13:01:26:997] info: Store: MAIN_WINDOW_SHOWN
+[09/17/18, 22:13:40:569] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[09/17/18, 22:13:40:570] info: ║      Slack 3.3.1, linux 4.15.0-34-generic on x64 at 09/17/18, 22:13:40:567      ║
+[09/17/18, 22:13:40:570] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[09/17/18, 22:13:40:780] info: Initializing local storage instance at path: /home/gabo/.config/Slack/local-settings.json
+[09/17/18, 22:13:41:787] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[09/17/18, 22:13:41:904] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[09/17/18, 22:13:42:343] info: Store: SET_NETWORK_STATUS online
+[09/17/18, 22:13:48:024] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "TC3F9FM3J"
+}
+[09/17/18, 22:13:48:026] info: Store: MAIN_WINDOW_SHOWN
+[10/01/18, 11:04:00:238] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[10/01/18, 11:04:00:245] info: ║      Slack 3.3.1, linux 4.15.0-34-generic on x64 at 10/01/18, 11:04:00:235      ║
+[10/01/18, 11:04:00:245] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[10/01/18, 11:04:00:325] info: Initializing local storage instance at path: /home/gabo/.config/Slack/local-settings.json
+[10/01/18, 11:04:01:548] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[10/01/18, 11:04:01:644] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[10/01/18, 11:04:02:070] info: Store: SET_NETWORK_STATUS online
+[10/01/18, 11:04:08:139] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "TC51T0LSH"
+}
+[10/01/18, 11:04:08:155] info: Store: MAIN_WINDOW_SHOWN
+[10/01/18, 11:04:08:195] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "loaded",
+  "teamId": "TC32HKSQY"
+}
+[10/01/18, 11:04:08:200] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "TC3F9FM3J"
+}
+[10/01/18, 17:16:01:935] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[10/01/18, 17:16:01:936] info: ║      Slack 3.3.1, linux 4.15.0-34-generic on x64 at 10/01/18, 17:16:01:933      ║
+[10/01/18, 17:16:01:936] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[10/01/18, 17:16:02:011] info: Initializing local storage instance at path: /home/gabo/.config/Slack/local-settings.json
+[10/01/18, 17:16:02:019] info: TranslationLookup: locale set to es-ES for renderer
+[10/01/18, 17:16:03:638] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[10/01/18, 17:16:03:726] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[10/01/18, 17:16:04:321] info: Store: SET_NETWORK_STATUS online
+[10/01/18, 17:16:08:954] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T8RKRFTEX"
+}
+[10/01/18, 17:16:08:966] info: Store: MAIN_WINDOW_SHOWN
+[10/02/18, 21:38:09:173] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[10/02/18, 21:38:09:177] info: ║      Slack 3.3.1, linux 4.15.0-34-generic on x64 at 10/02/18, 21:38:09:164      ║
+[10/02/18, 21:38:09:177] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[10/02/18, 21:38:09:368] info: Initializing local storage instance at path: /home/gabo/.config/Slack/local-settings.json
+[10/02/18, 21:38:10:584] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[10/02/18, 21:38:10:727] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[10/02/18, 21:38:11:157] info: Store: SET_NETWORK_STATUS online
+[10/02/18, 21:38:19:144] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T8RKRFTEX"
+}
+[10/02/18, 21:38:19:152] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "loaded",
+  "teamId": "TC32HKSQY"
+}
+[10/02/18, 21:38:19:157] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "TC3F9FM3J"
+}
+[10/02/18, 21:38:19:167] info: Store: MAIN_WINDOW_SHOWN
+[10/08/18, 10:33:52:754] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[10/08/18, 10:33:52:755] info: ║      Slack 3.3.1, linux 4.15.0-36-generic on x64 at 10/08/18, 10:33:52:752      ║
+[10/08/18, 10:33:52:755] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[10/08/18, 10:33:52:828] info: Initializing local storage instance at path: /home/gabo/.config/Slack/local-settings.json
+[10/08/18, 10:33:53:685] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[10/08/18, 10:33:53:795] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[10/08/18, 10:33:54:189] info: Store: SET_NETWORK_STATUS online
+[10/08/18, 10:34:00:278] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "loaded",
+  "teamId": "TC3F9FM3J"
+}
+[10/08/18, 10:34:00:279] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "TC51T0LSH"
+}
+[10/08/18, 10:34:00:450] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "TCS2VGCAF"
+}
+[10/08/18, 10:34:00:501] info: Store: MAIN_WINDOW_SHOWN
+[10/18/18, 18:53:32:985] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[10/18/18, 18:53:32:986] info: ║      Slack 3.3.1, linux 4.15.0-36-generic on x64 at 10/18/18, 18:53:32:977      ║
+[10/18/18, 18:53:32:986] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[10/18/18, 18:53:33:166] info: Initializing local storage instance at path: /home/gabo/.config/Slack/local-settings.json
+[10/18/18, 18:53:34:303] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[10/18/18, 18:53:34:389] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[10/18/18, 18:53:34:965] info: Store: SET_NETWORK_STATUS online
+[10/18/18, 18:53:39:996] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "TC32HKSQY"
+}
+[10/18/18, 18:53:40:005] info: Store: MAIN_WINDOW_SHOWN
+[10/22/18, 18:07:31:928] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[10/22/18, 18:07:31:930] info: ║      Slack 3.3.1, linux 4.15.0-36-generic on x64 at 10/22/18, 18:07:31:922      ║
+[10/22/18, 18:07:31:930] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[10/22/18, 18:07:32:202] info: Initializing local storage instance at path: /home/gabo/.config/Slack/local-settings.json
+[10/22/18, 18:07:33:994] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[10/22/18, 18:07:34:131] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[10/22/18, 18:07:34:577] info: Store: SET_NETWORK_STATUS online
+[10/22/18, 18:07:39:844] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "TC3F9FM3J"
+}
+[10/22/18, 18:07:39:855] info: Store: MAIN_WINDOW_SHOWN
+[10/23/18, 09:44:42:353] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[10/23/18, 09:44:42:354] info: ║      Slack 3.3.1, linux 4.15.0-36-generic on x64 at 10/23/18, 09:44:42:351      ║
+[10/23/18, 09:44:42:354] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[10/23/18, 09:44:42:427] info: Initializing local storage instance at path: /home/gabo/.config/Slack/local-settings.json
+[10/23/18, 09:44:43:316] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[10/23/18, 09:44:43:425] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[10/23/18, 09:44:43:939] info: Store: SET_NETWORK_STATUS online
+[10/23/18, 09:44:49:913] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "TC32HKSQY"
+}
+[10/23/18, 09:44:49:930] info: Store: MAIN_WINDOW_SHOWN
+[10/25/18, 19:10:18:789] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[10/25/18, 19:10:18:790] info: ║      Slack 3.3.1, linux 4.15.0-36-generic on x64 at 10/25/18, 19:10:18:771      ║
+[10/25/18, 19:10:18:790] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[10/25/18, 19:10:19:044] info: Initializing local storage instance at path: /home/gabo/.config/Slack/local-settings.json
+[10/25/18, 19:10:21:029] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[10/25/18, 19:10:21:098] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[10/25/18, 19:10:21:685] info: Store: SET_NETWORK_STATUS online
+[10/25/18, 19:10:28:911] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "TC51T0LSH"
+}
+[10/25/18, 19:10:28:926] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "TC3F9FM3J"
+}
+[10/25/18, 19:10:28:937] info: Store: MAIN_WINDOW_SHOWN
+[11/01/18, 14:13:13:359] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[11/01/18, 14:13:13:360] info: ║      Slack 3.3.1, linux 4.15.0-36-generic on x64 at 11/01/18, 14:13:13:356      ║
+[11/01/18, 14:13:13:360] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[11/01/18, 14:13:13:433] info: Initializing local storage instance at path: /home/gabo/.config/Slack/local-settings.json
+[11/01/18, 14:13:15:012] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[11/01/18, 14:13:15:094] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[11/01/18, 14:13:15:550] info: Store: SET_NETWORK_STATUS online
+[11/01/18, 14:13:22:016] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "loaded",
+  "teamId": "TC32HKSQY"
+}
+[11/01/18, 14:13:22:024] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "TC3F9FM3J"
+}
+[11/01/18, 14:13:22:026] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "TC51T0LSH"
+}
+[11/01/18, 14:13:22:029] info: Store: MAIN_WINDOW_SHOWN
+[11/05/18, 11:26:27:711] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[11/05/18, 11:26:27:712] info: ║      Slack 3.3.1, linux 4.15.0-36-generic on x64 at 11/05/18, 11:26:27:709      ║
+[11/05/18, 11:26:27:712] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[11/05/18, 11:26:27:788] info: Initializing local storage instance at path: /home/gabo/.config/Slack/local-settings.json
+[11/05/18, 11:26:27:796] info: TranslationLookup: locale set to es-ES for renderer
+[11/05/18, 11:26:28:785] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[11/05/18, 11:26:28:974] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[11/05/18, 11:26:29:404] info: Store: SET_NETWORK_STATUS online
+[11/05/18, 11:26:36:303] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "TC3F9FM3J"
+}
+[11/05/18, 11:26:36:308] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "loaded",
+  "teamId": "TCS2VGCAF"
+}
+[11/05/18, 11:26:36:309] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "TC51T0LSH"
+}
+[11/05/18, 11:26:36:322] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T8RKRFTEX"
+}
+[11/05/18, 11:26:36:330] info: Store: MAIN_WINDOW_SHOWN
+[11/07/18, 07:37:55:392] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[11/07/18, 07:37:55:392] info: ║      Slack 3.3.1, linux 4.15.0-36-generic on x64 at 11/07/18, 07:37:55:390      ║
+[11/07/18, 07:37:55:392] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[11/07/18, 07:37:55:501] info: Initializing local storage instance at path: /home/gabo/.config/Slack/local-settings.json
+[11/07/18, 07:37:55:514] info: TranslationLookup: locale set to es-ES for renderer
+[11/07/18, 07:37:57:778] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[11/07/18, 07:37:58:014] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[11/07/18, 07:37:58:425] info: Store: SET_NETWORK_STATUS online
+[11/07/18, 07:38:03:197] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T8RKRFTEX"
+}
+[11/07/18, 07:38:03:198] info: Store: MAIN_WINDOW_SHOWN
+[11/09/18, 11:22:27:740] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[11/09/18, 11:22:27:741] info: ║      Slack 3.3.3, linux 4.15.0-38-generic on x64 at 11/09/18, 11:22:27:728      ║
+[11/09/18, 11:22:27:741] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[11/09/18, 11:22:27:989] info: Initializing local storage instance at path: /home/gabo/.config/Slack/local-settings.json
+[11/09/18, 11:22:28:007] info: TranslationLookup: locale set to es-ES for renderer
+[11/09/18, 11:22:29:495] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[11/09/18, 11:22:29:624] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[11/09/18, 11:22:30:351] info: Store: SET_NETWORK_STATUS online
+[11/09/18, 11:22:36:488] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "TC3F9FM3J"
+}
+[11/09/18, 11:22:36:501] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "TC51T0LSH"
+}
+[11/09/18, 11:22:36:658] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T8RKRFTEX"
+}
+[11/09/18, 11:22:36:680] info: Store: MAIN_WINDOW_SHOWN
+[11/13/18, 14:13:59:651] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[11/13/18, 14:13:59:652] info: ║      Slack 3.3.3, linux 4.15.0-38-generic on x64 at 11/13/18, 14:13:59:640      ║
+[11/13/18, 14:13:59:652] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[11/13/18, 14:13:59:881] info: Initializing local storage instance at path: /home/gabo/.config/Slack/local-settings.json
+[11/13/18, 14:14:01:815] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[11/13/18, 14:14:02:021] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[11/13/18, 14:14:02:375] info: Store: SET_NETWORK_STATUS online
+[11/13/18, 14:14:09:750] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "TC3F9FM3J"
+}
+[11/13/18, 14:14:09:769] info: Store: MAIN_WINDOW_SHOWN
+[11/16/18, 16:50:05:853] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[11/16/18, 16:50:05:853] info: ║      Slack 3.3.3, linux 4.15.0-38-generic on x64 at 11/16/18, 16:50:05:850      ║
+[11/16/18, 16:50:05:853] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[11/16/18, 16:50:05:927] info: Initializing local storage instance at path: /home/gabo/.config/Slack/local-settings.json
+[11/16/18, 16:50:06:496] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[11/16/18, 16:50:06:550] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[11/16/18, 16:50:07:140] info: Store: SET_NETWORK_STATUS online
+[11/16/18, 16:50:14:410] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "loaded",
+  "teamId": "TCS2VGCAF"
+}
+[11/16/18, 16:50:14:573] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "TC3F9FM3J"
+}
+[11/16/18, 16:50:14:583] info: Store: MAIN_WINDOW_SHOWN
+[11/19/18, 14:15:05:855] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[11/19/18, 14:15:05:856] info: ║      Slack 3.3.3, linux 4.15.0-38-generic on x64 at 11/19/18, 14:15:05:852      ║
+[11/19/18, 14:15:05:856] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[11/19/18, 14:15:06:068] info: Initializing local storage instance at path: /home/gabo/.config/Slack/local-settings.json
+[11/19/18, 14:15:06:081] info: TranslationLookup: locale set to es-ES for renderer
+[11/19/18, 14:15:07:505] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[11/19/18, 14:15:07:690] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[11/19/18, 14:15:08:138] info: Store: SET_NETWORK_STATUS online
+[11/19/18, 14:15:13:666] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "loaded",
+  "teamId": "TCS2VGCAF"
+}
+[11/19/18, 14:15:13:738] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "TC51T0LSH"
+}
+[11/19/18, 14:15:13:909] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "TCS2VGCAF"
+}
+[11/19/18, 14:15:13:997] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "loaded",
+  "teamId": "TC32HKSQY"
+}
+[11/19/18, 14:15:14:000] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "TC3F9FM3J"
+}
+[11/19/18, 14:15:14:006] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "TC51T0LSH"
+}
+[11/19/18, 14:15:14:104] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T8RKRFTEX"
+}
+[11/19/18, 14:15:14:122] info: Store: MAIN_WINDOW_SHOWN
+[11/26/18, 20:02:33:834] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[11/26/18, 20:02:33:834] info: ║      Slack 3.3.3, linux 4.15.0-38-generic on x64 at 11/26/18, 20:02:33:830      ║
+[11/26/18, 20:02:33:835] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[11/26/18, 20:02:34:105] info: Initializing local storage instance at path: /home/gabo/.config/Slack/local-settings.json
+[11/26/18, 20:02:34:132] info: TranslationLookup: locale set to es-ES for renderer
+[11/26/18, 20:02:35:189] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[11/26/18, 20:02:35:268] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[11/26/18, 20:02:35:775] info: Store: SET_NETWORK_STATUS online
+[11/26/18, 20:02:42:164] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T8RKRFTEX"
+}
+[11/26/18, 20:02:42:168] info: Store: MAIN_WINDOW_SHOWN
+[11/28/18, 07:36:53:248] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[11/28/18, 07:36:53:248] info: ║      Slack 3.3.3, linux 4.15.0-39-generic on x64 at 11/28/18, 07:36:53:246      ║
+[11/28/18, 07:36:53:248] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[11/28/18, 07:36:53:343] info: Initializing local storage instance at path: /home/gabo/.config/Slack/local-settings.json
+[11/28/18, 07:36:55:595] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[11/28/18, 07:36:55:739] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[11/28/18, 07:36:56:992] info: Store: SET_NETWORK_STATUS online
+[11/28/18, 07:37:03:618] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "TC3F9FM3J"
+}
+[11/28/18, 07:37:03:623] info: Store: MAIN_WINDOW_SHOWN
+[11/28/18, 16:11:57:922] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[11/28/18, 16:11:57:923] info: ║      Slack 3.3.3, linux 4.15.0-39-generic on x64 at 11/28/18, 16:11:57:918      ║
+[11/28/18, 16:11:57:923] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[11/28/18, 16:11:58:100] info: Initializing local storage instance at path: /home/gabo/.config/Slack/local-settings.json
+[11/28/18, 16:11:58:113] info: TranslationLookup: locale set to es-ES for renderer
+[11/28/18, 16:11:59:258] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[11/28/18, 16:11:59:343] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[11/28/18, 16:11:59:831] info: Store: SET_NETWORK_STATUS online
+[11/28/18, 16:12:05:359] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T8RKRFTEX"
+}
+[11/28/18, 16:12:05:372] info: Store: MAIN_WINDOW_SHOWN
+[11/29/18, 13:34:29:634] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[11/29/18, 13:34:29:635] info: ║      Slack 3.3.3, linux 4.15.0-39-generic on x64 at 11/29/18, 13:34:29:618      ║
+[11/29/18, 13:34:29:635] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[11/29/18, 13:34:29:868] info: Initializing local storage instance at path: /home/gabo/.config/Slack/local-settings.json
+[11/29/18, 13:34:29:885] info: TranslationLookup: locale set to es-ES for renderer
+[11/29/18, 13:34:30:901] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[11/29/18, 13:34:31:038] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[11/29/18, 13:34:31:466] info: Store: SET_NETWORK_STATUS online
+[11/29/18, 13:34:39:057] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "TC3F9FM3J"
+}
+[11/29/18, 13:34:39:064] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "TC51T0LSH"
+}
+[11/29/18, 13:34:39:077] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "loaded",
+  "teamId": "TCS2VGCAF"
+}
+[12/07/18, 11:46:47:885] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[12/07/18, 11:46:47:886] info: ║      Slack 3.3.3, linux 4.15.0-42-generic on x64 at 12/07/18, 11:46:47:882      ║
+[12/07/18, 11:46:47:886] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[12/07/18, 11:46:47:980] info: Initializing local storage instance at path: /home/gabo/.config/Slack/local-settings.json
+[12/07/18, 11:46:47:991] info: TranslationLookup: locale set to es-ES for renderer
+[12/07/18, 11:46:48:664] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[12/07/18, 11:46:49:007] info: Store: START_BACKGROUND_CLIENT
+{
+  "teamId": "TC51T0LSH",
+  "token": "xoxs-⋯"
+}
+[12/07/18, 11:46:49:159] info: Store: START_BACKGROUND_CLIENT
+{
+  "teamId": "TC3F9FM3J",
+  "token": "xoxs-⋯"
+}
+[12/07/18, 11:46:49:311] info: Store: START_BACKGROUND_CLIENT
+{
+  "teamId": "TC32HKSQY",
+  "token": "xoxs-⋯"
+}
+[12/07/18, 11:46:49:335] info: Store: SET_NETWORK_STATUS online
+[12/07/18, 11:46:49:546] info: Store: START_BACKGROUND_CLIENT
+{
+  "teamId": "TCS2VGCAF",
+  "token": "xoxs-⋯"
+}
+[12/07/18, 11:46:49:554] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[12/07/18, 11:46:52:464] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T8RKRFTEX"
+}
+[12/07/18, 11:46:52:472] info: Store: MAIN_WINDOW_SHOWN
+[12/10/18, 16:04:18:046] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[12/10/18, 16:04:18:047] info: ║      Slack 3.3.3, linux 4.15.0-42-generic on x64 at 12/10/18, 16:04:18:043      ║
+[12/10/18, 16:04:18:047] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[12/10/18, 16:04:18:137] info: Initializing local storage instance at path: /home/gabo/.config/Slack/local-settings.json
+[12/10/18, 16:04:18:146] info: TranslationLookup: locale set to es-ES for renderer
+[12/10/18, 16:04:18:693] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[12/10/18, 16:04:19:214] info: Store: START_BACKGROUND_CLIENT
+{
+  "teamId": "TC51T0LSH",
+  "token": "xoxs-⋯"
+}
+[12/10/18, 16:04:19:356] info: Store: START_BACKGROUND_CLIENT
+{
+  "teamId": "TC3F9FM3J",
+  "token": "xoxs-⋯"
+}
+[12/10/18, 16:04:19:526] info: Store: SET_NETWORK_STATUS online
+[12/10/18, 16:04:19:559] info: Store: START_BACKGROUND_CLIENT
+{
+  "teamId": "TC32HKSQY",
+  "token": "xoxs-⋯"
+}
+[12/10/18, 16:04:19:723] info: Store: START_BACKGROUND_CLIENT
+{
+  "teamId": "TCS2VGCAF",
+  "token": "xoxs-⋯"
+}
+[12/10/18, 16:04:19:731] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[12/10/18, 16:04:22:838] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T8RKRFTEX"
+}
+[12/10/18, 16:04:22:849] info: Store: MAIN_WINDOW_SHOWN
+[12/12/18, 16:41:19:897] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[12/12/18, 16:41:19:897] info: ║      Slack 3.3.3, linux 4.15.0-42-generic on x64 at 12/12/18, 16:41:19:893      ║
+[12/12/18, 16:41:19:897] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[12/12/18, 16:41:19:981] info: Initializing local storage instance at path: /home/gabo/.config/Slack/local-settings.json
+[12/12/18, 16:41:20:830] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[12/12/18, 16:41:21:204] info: Store: START_BACKGROUND_CLIENT
+{
+  "teamId": "TC51T0LSH",
+  "token": "xoxs-⋯"
+}
+[12/12/18, 16:41:21:300] info: Store: START_BACKGROUND_CLIENT
+{
+  "teamId": "TC32HKSQY",
+  "token": "xoxs-⋯"
+}
+[12/12/18, 16:41:21:408] info: Store: START_BACKGROUND_CLIENT
+{
+  "teamId": "TCS2VGCAF",
+  "token": "xoxs-⋯"
+}
+[12/12/18, 16:41:21:411] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[12/12/18, 16:41:21:540] info: Store: SET_NETWORK_STATUS online
+[12/12/18, 16:41:25:152] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "TC3F9FM3J"
+}
+[12/12/18, 16:41:25:159] info: Store: MAIN_WINDOW_SHOWN
+[01/15/19, 09:19:32:235] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[01/15/19, 09:19:32:236] info: ║      Slack 3.3.3, linux 4.15.0-43-generic on x64 at 01/15/19, 09:19:32:233      ║
+[01/15/19, 09:19:32:236] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[01/15/19, 09:19:32:335] info: Initializing local storage instance at path: /home/gabo/.config/Slack/local-settings.json
+[01/15/19, 09:19:33:093] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[01/15/19, 09:19:33:405] info: Store: START_BACKGROUND_CLIENT
+{
+  "teamId": "TC51T0LSH",
+  "token": "xoxs-⋯"
+}
+[01/15/19, 09:19:33:526] info: Store: START_BACKGROUND_CLIENT
+{
+  "teamId": "TC3F9FM3J",
+  "token": "xoxs-⋯"
+}
+[01/15/19, 09:19:33:652] info: Store: START_BACKGROUND_CLIENT
+{
+  "teamId": "TCS2VGCAF",
+  "token": "xoxs-⋯"
+}
+[01/15/19, 09:19:33:653] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[01/15/19, 09:19:33:792] info: Store: SET_NETWORK_STATUS online
+[01/15/19, 09:19:37:375] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "TC32HKSQY"
+}
+[01/15/19, 09:19:37:379] info: Store: MAIN_WINDOW_SHOWN
+[01/21/19, 23:01:13:078] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[01/21/19, 23:01:13:079] info: ║      Slack 3.3.3, linux 4.15.0-43-generic on x64 at 01/21/19, 23:01:13:076      ║
+[01/21/19, 23:01:13:079] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[01/21/19, 23:01:13:152] info: Initializing local storage instance at path: /home/gabo/.config/Slack/local-settings.json
+[01/21/19, 23:01:13:848] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[01/21/19, 23:01:13:871] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[01/21/19, 23:01:14:357] info: Store: SET_NETWORK_STATUS online
+[01/21/19, 23:01:20:863] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "TC51T0LSH"
+}
+[01/21/19, 23:01:20:869] info: Store: MAIN_WINDOW_SHOWN
+[01/22/19, 10:36:39:089] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[01/22/19, 10:36:39:090] info: ║      Slack 3.3.3, linux 4.15.0-43-generic on x64 at 01/22/19, 10:36:39:087      ║
+[01/22/19, 10:36:39:090] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[01/22/19, 10:36:39:168] info: Initializing local storage instance at path: /home/gabo/.config/Slack/local-settings.json
+[01/22/19, 10:36:39:999] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[01/22/19, 10:36:40:281] info: Store: START_BACKGROUND_CLIENT
+{
+  "teamId": "TC3F9FM3J",
+  "token": "xoxs-⋯"
+}
+[01/22/19, 10:36:40:409] info: Store: START_BACKGROUND_CLIENT
+{
+  "teamId": "TCS2VGCAF",
+  "token": "xoxs-⋯"
+}
+[01/22/19, 10:36:40:410] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[01/22/19, 10:36:40:510] info: Store: SET_NETWORK_STATUS online
+[01/22/19, 10:36:44:670] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "TC51T0LSH"
+}
+[01/22/19, 10:36:44:682] info: Store: MAIN_WINDOW_SHOWN
+[01/23/19, 22:42:35:767] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[01/23/19, 22:42:35:768] info: ║      Slack 3.3.3, linux 4.15.0-43-generic on x64 at 01/23/19, 22:42:35:755      ║
+[01/23/19, 22:42:35:768] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[01/23/19, 22:42:35:908] info: Initializing local storage instance at path: /home/gabo/.config/Slack/local-settings.json
+[01/23/19, 22:42:36:544] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[01/23/19, 22:42:37:217] info: Store: SET_NETWORK_STATUS online
+[01/23/19, 22:42:37:420] info: Store: START_BACKGROUND_CLIENT
+{
+  "teamId": "TC3F9FM3J",
+  "token": "xoxs-⋯"
+}
+[01/23/19, 22:42:37:562] info: Store: START_BACKGROUND_CLIENT
+{
+  "teamId": "TCS2VGCAF",
+  "token": "xoxs-⋯"
+}
+[01/23/19, 22:42:37:562] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[01/23/19, 22:42:42:318] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "TC51T0LSH"
+}
+[01/23/19, 22:42:42:326] info: Store: MAIN_WINDOW_SHOWN
+[01/23/19, 22:42:42:372] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T8RKRFTEX"
+}
+[02/11/19, 07:32:51:306] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[02/11/19, 07:32:51:307] info: ║      Slack 3.3.3, linux 4.15.0-43-generic on x64 at 02/11/19, 07:32:51:294      ║
+[02/11/19, 07:32:51:307] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[02/11/19, 07:32:51:454] info: Initializing local storage instance at path: /home/gabo/.config/Slack/local-settings.json
+[02/11/19, 07:32:52:224] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[02/11/19, 07:32:52:456] info: Store: START_BACKGROUND_CLIENT
+{
+  "teamId": "TC3F9FM3J",
+  "token": "xoxs-⋯"
+}
+[02/11/19, 07:32:52:574] info: Store: START_BACKGROUND_CLIENT
+{
+  "teamId": "TCS2VGCAF",
+  "token": "xoxs-⋯"
+}
+[02/11/19, 07:32:52:591] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[02/11/19, 07:32:52:786] info: Store: SET_NETWORK_STATUS online
+[02/11/19, 07:32:57:212] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "TC32HKSQY"
+}
+[02/11/19, 07:32:57:457] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "TC32HKSQY"
+}
+[02/11/19, 07:32:57:984] info: Store: SELECT_CHANNEL CC37A0J0H
+[02/11/19, 07:32:57:987] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "TC32HKSQY"
+}
+[02/11/19, 07:32:58:052] info: Store: UPDATE_SETTINGS
+{
+  "locale": "en-US"
+}
+[02/11/19, 07:32:58:087] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "TC32HKSQY",
+  "theme": {
+    "active_item": "#2D9EE0",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#60D156",
+    "badge": "#DC5960",
+    "column_bg": "#F8F8FA",
+    "hover_item": "#FFFFFF",
+    "menu_bg": "#F8F8FA",
+    "text_color": "#383F45"
+  }
+}
+[02/11/19, 07:32:58:131] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "TC51T0LSH"
+}
+[02/11/19, 07:32:58:147] info: Store: MAIN_WINDOW_SHOWN
+[03/29/19, 08:49:32:243] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[03/29/19, 08:49:32:243] info: ║      Slack 3.3.3, linux 4.15.0-46-generic on x64 at 03/29/19, 08:49:32:240      ║
+[03/29/19, 08:49:32:243] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[03/29/19, 08:49:32:349] info: Initializing local storage instance at path: /home/gabo/.config/Slack/local-settings.json
+[03/29/19, 08:49:33:386] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[03/29/19, 08:49:33:656] info: Store: START_BACKGROUND_CLIENT
+{
+  "teamId": "TC51T0LSH",
+  "token": "xoxs-⋯"
+}
+[03/29/19, 08:49:33:772] info: Store: START_BACKGROUND_CLIENT
+{
+  "teamId": "TC3F9FM3J",
+  "token": "xoxs-⋯"
+}
+[03/29/19, 08:49:33:883] info: Store: START_BACKGROUND_CLIENT
+{
+  "teamId": "TCS2VGCAF",
+  "token": "xoxs-⋯"
+}
+[03/29/19, 08:49:33:886] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[03/29/19, 08:49:33:995] info: Store: SET_NETWORK_STATUS online
+[03/29/19, 08:49:38:216] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "TC32HKSQY"
+}
+[03/29/19, 08:49:38:217] info: Store: MAIN_WINDOW_SHOWN

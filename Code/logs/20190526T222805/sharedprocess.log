@@ -1,0 +1,14 @@
+[2019-05-26 22:28:11.511] [sharedprocess] [info] main {"machineId":"09a8a7ac53390d2aa241723bc421c671ef76cbcb851c562b80e78b47f4871e7d"}
+[2019-05-26 22:28:12.902] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-26 22:28:13.742] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-26 22:28:14.423] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-26 22:28:14.428] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-26 22:28:16.961] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-26 22:28:17.211] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2019-05-26 22:28:17.229] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-26 22:28:18.026] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /tmp/ee3d4942-9da4-4108-9e92-9e465f7c2439
+[2019-05-26 22:28:18.457] [sharedprocess] [info] Extracted extension to /home/gabo/.vscode/extensions/.pkief.material-icon-theme-3.8.0: pkief.material-icon-theme
+[2019-05-26 22:28:18.457] [sharedprocess] [info] Renamed to /home/gabo/.vscode/extensions/pkief.material-icon-theme-3.8.0
+[2019-05-26 22:28:18.458] [sharedprocess] [info] Installation completed. pkief.material-icon-theme
+[2019-05-26 22:28:18.533] [sharedprocess] [info] Extensions installed successfully: pkief.material-icon-theme
+[2019-05-26 22:28:51.518] [sharedprocess] [info] Starting to clean up unused language packs.

@@ -1,0 +1,30 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.fontFamily": "Fira Code, 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontSize": 16,
+    "editor.fontLigatures": true,
+    "workbench.colorTheme": "Adapta Nokto",
+    "latex-workshop.view.pdf.viewer": "tab",
+    "editor.wordWrap": "on",
+    "window.zoomLevel": 1,
+    "cSpell.language": ",es,en",
+    "python.linting.pylintPath": "/usr/local/bin/pylint",
+    "window.menuBarVisibility": "toggle",
+    "git.autofetch": true,
+    "arduino.defaultBaudRate": 9600,
+    "arduino.path": "/opt/arduino-1.8.7",
+    "python.jediEnabled": false,
+    "python.linting.pylintEnabled": true,
+    "breadcrumbs.enabled": true,
+    "cSpell.userWords": [
+        "contenteditable",
+        "imread"
+    ],
+    "files.associations": {
+        "*.html": "html"
+    },
+    "[html]": {},
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
+}

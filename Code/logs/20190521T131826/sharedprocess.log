@@ -1,0 +1,45 @@
+[2019-05-21 13:18:33.848] [sharedprocess] [info] main {"machineId":"09a8a7ac53390d2aa241723bc421c671ef76cbcb851c562b80e78b47f4871e7d"}
+[2019-05-21 13:18:38.050] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-21 13:18:39.782] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-21 13:18:39.824] [sharedprocess] [info] Deleted from disk donjayamanne.python-extension-pack /home/gabo/.vscode/extensions/donjayamanne.python-extension-pack-1.4.0
+[2019-05-21 13:18:43.563] [sharedprocess] [info] Deleted from disk ms-vscode.csharp /home/gabo/.vscode/extensions/ms-vscode.csharp-1.19.0
+[2019-05-21 13:18:43.637] [sharedprocess] [info] Deleted from disk visualstudioexptteam.vscodeintellicode /home/gabo/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.1.5
+[2019-05-21 13:18:43.651] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-21 13:18:43.679] [sharedprocess] [info] Deleted from disk ms-vscode.cpptools /home/gabo/.vscode/extensions/ms-vscode.cpptools-0.22.1
+[2019-05-21 13:18:43.679] [sharedprocess] [info] Deleted from disk hookyqr.beautify /home/gabo/.vscode/extensions/hookyqr.beautify-1.4.11
+[2019-05-21 13:18:43.690] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-21 13:18:43.709] [sharedprocess] [info] Deleted from disk zignd.html-css-class-completion /home/gabo/.vscode/extensions/zignd.html-css-class-completion-1.18.0
+[2019-05-21 13:18:44.785] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-21 13:18:46.366] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2019-05-21 13:18:46.369] [sharedprocess] [info] Installing extension: james-yu.latex-workshop
+[2019-05-21 13:18:46.372] [sharedprocess] [info] Installing extension: streetsidesoftware.code-spell-checker
+[2019-05-21 13:18:46.451] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-21 13:18:46.454] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-21 13:18:46.457] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-21 13:18:48.221] [sharedprocess] [info] Downloaded extension: streetsidesoftware.code-spell-checker /tmp/0d66fa19-e76a-413d-b432-28ee2d0aae1a
+[2019-05-21 13:18:49.259] [sharedprocess] [info] Downloaded extension: james-yu.latex-workshop /tmp/52c8bed1-f1bc-44c6-b2c0-e442ec41d531
+[2019-05-21 13:18:50.205] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /tmp/ee149d98-2e5b-45c0-9965-dddba53f7b96
+[2019-05-21 13:18:53.782] [sharedprocess] [info] Extracted extension to /home/gabo/.vscode/extensions/.streetsidesoftware.code-spell-checker-1.7.4: streetsidesoftware.code-spell-checker
+[2019-05-21 13:18:53.783] [sharedprocess] [info] Renamed to /home/gabo/.vscode/extensions/streetsidesoftware.code-spell-checker-1.7.4
+[2019-05-21 13:18:53.784] [sharedprocess] [info] Installation completed. streetsidesoftware.code-spell-checker
+[2019-05-21 13:18:53.972] [sharedprocess] [info] Extensions installed successfully: streetsidesoftware.code-spell-checker
+[2019-05-21 13:18:54.799] [sharedprocess] [info] Extracted extension to /home/gabo/.vscode/extensions/.james-yu.latex-workshop-6.5.1: james-yu.latex-workshop
+[2019-05-21 13:18:54.799] [sharedprocess] [info] Renamed to /home/gabo/.vscode/extensions/james-yu.latex-workshop-6.5.1
+[2019-05-21 13:18:54.802] [sharedprocess] [info] Installation completed. james-yu.latex-workshop
+[2019-05-21 13:18:54.922] [sharedprocess] [info] Extensions installed successfully: james-yu.latex-workshop
+[2019-05-21 13:18:58.878] [sharedprocess] [info] Extracted extension to /home/gabo/.vscode/extensions/.esbenp.prettier-vscode-1.9.0: esbenp.prettier-vscode
+[2019-05-21 13:18:58.878] [sharedprocess] [info] Renamed to /home/gabo/.vscode/extensions/esbenp.prettier-vscode-1.9.0
+[2019-05-21 13:18:58.879] [sharedprocess] [info] Installation completed. esbenp.prettier-vscode
+[2019-05-21 13:18:58.953] [sharedprocess] [info] Extensions installed successfully: esbenp.prettier-vscode
+[2019-05-21 13:19:13.862] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-05-21 13:23:44.868] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-21 13:28:44.933] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-21 13:33:44.997] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-21 13:38:45.065] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-21 13:43:45.132] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-21 13:48:45.217] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-21 13:53:45.286] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-21 13:58:45.354] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-21 14:03:45.437] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-21 14:08:45.515] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-21 14:13:45.584] [sharedprocess] [info] Scanned user extensions: 30

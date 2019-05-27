@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object class="java.lang.Object">
+    <property name="TRACKER_HOME" type="string">/opt/tracker</property>
+    <property name="XUGGLE_HOME" type="string">/opt/tracker/Xuggle</property>
+</object>

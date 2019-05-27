@@ -1,0 +1,11 @@
+[2019-05-21 22:27:07.720] [sharedprocess] [info] main {"machineId":"09a8a7ac53390d2aa241723bc421c671ef76cbcb851c562b80e78b47f4871e7d"}
+[2019-05-21 22:27:07.891] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-21 22:27:07.907] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-21 22:27:07.921] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-21 22:27:07.925] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-21 22:27:16.985] [sharedprocess] [info] Scanned user extensions: 30
+[2019-05-21 22:27:16.992] [sharedprocess] [info] Deleted from disk esbenp.prettier-vscode /home/gabo/.vscode/extensions/esbenp.prettier-vscode-1.8.1
+[2019-05-21 22:27:16.992] [sharedprocess] [info] Deleted from disk streetsidesoftware.code-spell-checker /home/gabo/.vscode/extensions/streetsidesoftware.code-spell-checker-1.7.0
+[2019-05-21 22:27:16.992] [sharedprocess] [info] Deleted from disk james-yu.latex-workshop /home/gabo/.vscode/extensions/james-yu.latex-workshop-6.4.0
+[2019-05-21 22:27:47.729] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-05-21 22:32:17.072] [sharedprocess] [info] Scanned user extensions: 30

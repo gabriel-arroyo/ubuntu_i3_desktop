@@ -1,0 +1,26 @@
+Starting Microsoft Python language server.
+##########Linting Output - pylint##########
+************* Module quickstart
+13,0,error,syntax-error:unexpected indent (<unknown>, line 13)
+Starting Jedi Python language engine.
+##########Linting Output - pylint##########
+************* Module quickstart
+7,0,error,import-error:Unable to import 'oauth2client'
+8,0,error,import-error:Unable to import 'oauth2client'
+9,0,error,import-error:Unable to import 'oauth2client.file'
+64,19,error,no-member:Instance of 'Resource' has no 'presentations' member
+
+-----------------------------------
+Your code has been rated at 5.35/10
+
+##########Linting Output - pylint##########
+************* Module quickstart
+45,0,error,syntax-error:unindent does not match any outer indentation level (<unknown>, line 45)
+##########Linting Output - pylint##########
+************* Module quickstart
+49,26,error,no-member:Module 'oauth2client.tools' has no 'run' member
+65,19,error,no-member:Instance of 'Resource' has no 'presentations' member
+
+------------------------------------------------------------------
+Your code has been rated at 7.73/10 (previous run: 5.35/10, +2.38)
+

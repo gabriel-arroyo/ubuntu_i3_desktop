@@ -1,0 +1,64 @@
+2019-05-19 20:22:01,772 DEBUG    root            Loaded Command Group: [u'gcloud', u'init']
+2019-05-19 20:22:01,774 DEBUG    root            Running [gcloud.init] with arguments: []
+2019-05-19 20:22:01,774 INFO     ___FILE_ONLY___ Welcome! This command will take you through the configuration of gcloud.
+
+
+2019-05-19 20:22:01,775 INFO     ___FILE_ONLY___ Your current configuration has been set to: [default]
+
+
+2019-05-19 20:22:01,775 INFO     ___FILE_ONLY___ You can skip diagnostics next time by using the following flag:
+
+2019-05-19 20:22:01,775 INFO     ___FILE_ONLY___   gcloud init --skip-diagnostics
+
+
+2019-05-19 20:22:01,775 INFO     ___FILE_ONLY___ Network diagnostic detects and fixes local network connection issues.
+
+2019-05-19 20:22:01,776 INFO     ___FILE_ONLY___ Checking network connection...
+2019-05-19 20:22:06,784 INFO     ___FILE_ONLY___ Reachability Check passed.
+
+2019-05-19 20:22:06,786 INFO     ___FILE_ONLY___ Network diagnostic passed (1/1 checks passed).
+
+
+2019-05-19 20:22:07,887 DEBUG    root            Loaded Command Group: [u'gcloud', u'auth']
+2019-05-19 20:22:07,889 DEBUG    root            Loaded Command Group: [u'gcloud', u'auth', u'login']
+2019-05-19 20:22:07,890 INFO     root            Executing: [gcloud auth login --force --brief]
+2019-05-19 20:22:07,892 DEBUG    root            Running [gcloud.auth.login] with arguments: [--brief: "True", --force: "True"]
+2019-05-19 20:23:49,096 INFO     ___FILE_ONLY___ Your browser has been opened to visit:
+
+    https://accounts.google.com/o/oauth2/auth?redirect_uri=http%3A%2F%2Flocalhost%3A8085%2F&prompt=select_account&response_type=code&client_id=32555940559.apps.googleusercontent.com&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fappengine.admin+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcompute+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Faccounts.reauth&access_type=offline
+
+
+
+2019-05-19 20:23:49,177 ERROR    root            There was a problem with web authentication. Try running again with --no-launch-browser.
+2019-05-19 20:23:49,177 DEBUG    root            (gcloud.auth.login) Failed to find "code" in the query parameters of the redirect.
+Traceback (most recent call last):
+  File "/home/gabo/google-cloud-sdk/lib/googlecloudsdk/calliope/cli.py", line 987, in Execute
+    resources = calliope_command.Run(cli=self, args=args)
+  File "/home/gabo/google-cloud-sdk/lib/googlecloudsdk/calliope/backend.py", line 795, in Run
+    resources = command_instance.Run(args)
+  File "/home/gabo/google-cloud-sdk/lib/surface/auth/login.py", line 146, in Run
+    creds = auth_util.DoInstalledAppBrowserFlow(launch_browser, scopes)
+  File "/home/gabo/google-cloud-sdk/lib/googlecloudsdk/api_lib/auth/util.py", line 95, in DoInstalledAppBrowserFlow
+    client_secret=client_secret)
+  File "/home/gabo/google-cloud-sdk/lib/googlecloudsdk/core/credentials/store.py", line 566, in AcquireFromWebFlow
+    return RunWebFlow(webflow, launch_browser=launch_browser)
+  File "/home/gabo/google-cloud-sdk/lib/googlecloudsdk/core/credentials/store.py", line 589, in RunWebFlow
+    raise FlowError(e)
+FlowError: Failed to find "code" in the query parameters of the redirect.
+2019-05-19 20:23:49,178 ERROR    root            (gcloud.auth.login) Failed to find "code" in the query parameters of the redirect.
+2019-05-19 20:23:49,179 INFO     root            [auth login --force --brief] has failed
+
+2019-05-19 20:23:49,179 DEBUG    root            (gcloud.init) Failed command: [auth login --force --brief] with exit code [1]
+Traceback (most recent call last):
+  File "/home/gabo/google-cloud-sdk/lib/googlecloudsdk/calliope/cli.py", line 987, in Execute
+    resources = calliope_command.Run(cli=self, args=args)
+  File "/home/gabo/google-cloud-sdk/lib/googlecloudsdk/calliope/backend.py", line 795, in Run
+    resources = command_instance.Run(args)
+  File "/home/gabo/google-cloud-sdk/lib/surface/init.py", line 133, in Run
+    if not self._PickAccount(args.console_only, preselected=args.account):
+  File "/home/gabo/google-cloud-sdk/lib/surface/init.py", line 199, in _PickAccount
+    disable_user_output=False):
+  File "/home/gabo/google-cloud-sdk/lib/surface/init.py", line 491, in _RunCmd
+    raise c_exc.FailedSubCommand(cmd + params, exc.code)
+FailedSubCommand: Failed command: [auth login --force --brief] with exit code [1]
+2019-05-19 20:23:49,180 ERROR    root            (gcloud.init) Failed command: [auth login --force --brief] with exit code [1]

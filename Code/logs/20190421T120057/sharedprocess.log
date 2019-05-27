@@ -1,0 +1,49 @@
+[2019-04-21 12:01:05.019] [sharedprocess] [info] main {"machineId":"09a8a7ac53390d2aa241723bc421c671ef76cbcb851c562b80e78b47f4871e7d"}
+[2019-04-21 12:01:06.926] [sharedprocess] [info] Scanned user extensions: 30
+[2019-04-21 12:01:07.949] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-21 12:01:11.230] [sharedprocess] [info] Deleted from disk dart-code.flutter /home/gabo/.vscode/extensions/dart-code.flutter-2.24.0
+[2019-04-21 12:01:14.234] [sharedprocess] [info] Deleted from disk dart-code.dart-code /home/gabo/.vscode/extensions/dart-code.dart-code-2.24.0
+[2019-04-21 12:01:14.903] [sharedprocess] [info] Deleted from disk james-yu.latex-workshop /home/gabo/.vscode/extensions/james-yu.latex-workshop-6.2.2
+[2019-04-21 12:01:14.905] [sharedprocess] [info] Deleted from disk ms-python.python /home/gabo/.vscode/extensions/ms-python.python-2019.3.6215
+[2019-04-21 12:01:14.911] [sharedprocess] [info] Scanned user extensions: 30
+[2019-04-21 12:01:14.922] [sharedprocess] [info] Scanned user extensions: 30
+[2019-04-21 12:01:14.926] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-21 12:01:14.935] [sharedprocess] [info] Deleted from disk ms-python.python /home/gabo/.vscode/extensions/ms-python.python-2019.3.6352
+[2019-04-21 12:01:16.223] [sharedprocess] [info] Installing extension: dart-code.dart-code
+[2019-04-21 12:01:16.225] [sharedprocess] [info] Installing extension: dart-code.flutter
+[2019-04-21 12:01:16.225] [sharedprocess] [info] Installing extension: james-yu.latex-workshop
+[2019-04-21 12:01:16.226] [sharedprocess] [info] Installing extension: ms-vscode.csharp
+[2019-04-21 12:01:16.226] [sharedprocess] [info] Installing extension: streetsidesoftware.code-spell-checker
+[2019-04-21 12:01:16.283] [sharedprocess] [info] Scanned user extensions: 30
+[2019-04-21 12:01:16.287] [sharedprocess] [info] Scanned user extensions: 30
+[2019-04-21 12:01:16.292] [sharedprocess] [info] Scanned user extensions: 30
+[2019-04-21 12:01:16.296] [sharedprocess] [info] Scanned user extensions: 30
+[2019-04-21 12:01:16.299] [sharedprocess] [info] Scanned user extensions: 30
+[2019-04-21 12:01:16.719] [sharedprocess] [info] Downloaded extension: ms-vscode.csharp /tmp/ed45c839-fb49-450d-94bb-2f4ba1812ffc
+[2019-04-21 12:01:16.770] [sharedprocess] [info] Downloaded extension: dart-code.flutter /tmp/d25f944e-3981-4262-8d22-f61ed632a541
+[2019-04-21 12:01:16.799] [sharedprocess] [info] Extracted extension to /home/gabo/.vscode/extensions/.dart-code.flutter-2.25.1: dart-code.flutter
+[2019-04-21 12:01:16.800] [sharedprocess] [info] Renamed to /home/gabo/.vscode/extensions/dart-code.flutter-2.25.1
+[2019-04-21 12:01:16.800] [sharedprocess] [info] Installation completed. dart-code.flutter
+[2019-04-21 12:01:16.802] [sharedprocess] [info] Extracted extension to /home/gabo/.vscode/extensions/.ms-vscode.csharp-1.19.0: ms-vscode.csharp
+[2019-04-21 12:01:16.802] [sharedprocess] [info] Renamed to /home/gabo/.vscode/extensions/ms-vscode.csharp-1.19.0
+[2019-04-21 12:01:16.805] [sharedprocess] [info] Installation completed. ms-vscode.csharp
+[2019-04-21 12:01:16.904] [sharedprocess] [info] Downloaded extension: dart-code.dart-code /tmp/1e77714d-b440-49e5-8cf7-f68c0aca6897
+[2019-04-21 12:01:17.013] [sharedprocess] [info] Scanned user extensions: 30
+[2019-04-21 12:01:17.015] [sharedprocess] [info] Extensions installed successfully: ms-vscode.csharp
+[2019-04-21 12:01:17.032] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-21 12:01:17.033] [sharedprocess] [info] Extensions installed successfully: dart-code.flutter
+[2019-04-21 12:01:17.404] [sharedprocess] [info] Extracted extension to /home/gabo/.vscode/extensions/.dart-code.dart-code-2.25.1: dart-code.dart-code
+[2019-04-21 12:01:17.404] [sharedprocess] [info] Renamed to /home/gabo/.vscode/extensions/dart-code.dart-code-2.25.1
+[2019-04-21 12:01:17.407] [sharedprocess] [info] Installation completed. dart-code.dart-code
+[2019-04-21 12:01:17.470] [sharedprocess] [info] Extensions installed successfully: dart-code.dart-code
+[2019-04-21 12:01:18.715] [sharedprocess] [info] Downloaded extension: streetsidesoftware.code-spell-checker /tmp/dbe242b4-0a98-41ae-b68c-8552843ecc89
+[2019-04-21 12:01:19.104] [sharedprocess] [info] Downloaded extension: james-yu.latex-workshop /tmp/1fed540f-272b-4671-998a-bdfbaffb13d2
+[2019-04-21 12:01:23.510] [sharedprocess] [info] Extracted extension to /home/gabo/.vscode/extensions/.streetsidesoftware.code-spell-checker-1.7.0: streetsidesoftware.code-spell-checker
+[2019-04-21 12:01:23.510] [sharedprocess] [info] Renamed to /home/gabo/.vscode/extensions/streetsidesoftware.code-spell-checker-1.7.0
+[2019-04-21 12:01:23.511] [sharedprocess] [info] Installation completed. streetsidesoftware.code-spell-checker
+[2019-04-21 12:01:23.704] [sharedprocess] [info] Extensions installed successfully: streetsidesoftware.code-spell-checker
+[2019-04-21 12:01:23.887] [sharedprocess] [info] Extracted extension to /home/gabo/.vscode/extensions/.james-yu.latex-workshop-6.4.0: james-yu.latex-workshop
+[2019-04-21 12:01:23.887] [sharedprocess] [info] Renamed to /home/gabo/.vscode/extensions/james-yu.latex-workshop-6.4.0
+[2019-04-21 12:01:23.888] [sharedprocess] [info] Installation completed. james-yu.latex-workshop
+[2019-04-21 12:01:23.969] [sharedprocess] [info] Extensions installed successfully: james-yu.latex-workshop
+[2019-04-21 12:01:45.026] [sharedprocess] [info] Starting to clean up unused language packs.

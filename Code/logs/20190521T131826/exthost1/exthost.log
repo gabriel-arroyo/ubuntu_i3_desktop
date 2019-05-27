@@ -1,0 +1,34 @@
+[2019-05-21 13:18:44.037] [exthost] [info] extension host started
+[2019-05-21 13:18:44.494] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-05-21 13:18:44.494] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-05-21 13:18:44.550] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-05-21 13:18:44.550] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-05-21 13:18:44.615] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-05-21 13:18:44.615] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-05-21 13:18:44.889] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-05-21 13:18:44.889] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-05-21 13:18:44.964] [exthost] [info] ExtensionService#_doActivateExtension auiworks.amvim {"startup":true,"activationEvent":"*"}
+[2019-05-21 13:18:44.965] [exthost] [info] ExtensionService#loadCommonJSModule /home/gabo/.vscode/extensions/auiworks.amvim-1.30.0/out/src/extension
+[2019-05-21 13:18:45.454] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2019-05-21 13:18:45.454] [exthost] [info] ExtensionService#loadCommonJSModule /home/gabo/.vscode/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2019-05-21 13:18:45.649] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2019-05-21 13:18:45.649] [exthost] [info] ExtensionService#loadCommonJSModule /home/gabo/.vscode/extensions/esbenp.prettier-vscode-1.8.1/out/src/extension
+[2019-05-21 13:18:46.239] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"activationEvent":"*"}
+[2019-05-21 13:18:46.240] [exthost] [info] ExtensionService#loadCommonJSModule /home/gabo/.vscode/extensions/hookyqr.beautify-1.5.0/extension
+[2019-05-21 13:18:46.858] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":true,"activationEvent":"*"}
+[2019-05-21 13:18:46.858] [exthost] [info] ExtensionService#loadCommonJSModule /home/gabo/.vscode/extensions/ms-vscode.cpptools-0.23.1/dist/main
+[2019-05-21 13:18:47.050] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"activationEvent":"*"}
+[2019-05-21 13:18:47.050] [exthost] [info] ExtensionService#loadCommonJSModule /home/gabo/.vscode/extensions/naumovs.color-highlight-2.3.0/dist/extension
+[2019-05-21 13:18:47.253] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2019-05-21 13:18:47.253] [exthost] [info] ExtensionService#loadCommonJSModule /home/gabo/.vscode/extensions/pkief.material-icon-theme-3.7.0/dist/extension
+[2019-05-21 13:18:47.478] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker {"startup":true,"activationEvent":"*"}
+[2019-05-21 13:18:47.478] [exthost] [info] ExtensionService#loadCommonJSModule /home/gabo/.vscode/extensions/streetsidesoftware.code-spell-checker-1.7.0/out/extension
+[2019-05-21 13:18:49.156] [exthost] [info] ExtensionService#_doActivateExtension yhpnoraa.beauty {"startup":true,"activationEvent":"*"}
+[2019-05-21 13:18:49.156] [exthost] [info] ExtensionService#loadCommonJSModule /home/gabo/.vscode/extensions/yhpnoraa.beauty-0.0.2/out/src/extension
+[2019-05-21 13:18:49.522] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion {"startup":true,"activationEvent":"*"}
+[2019-05-21 13:18:49.522] [exthost] [info] ExtensionService#loadCommonJSModule /home/gabo/.vscode/extensions/zignd.html-css-class-completion-1.19.0/out/src/extension
+[2019-05-21 13:18:52.097] [exthost] [info] eager extensions activated
+[2019-05-21 13:18:57.680] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker-spanish {"startup":true,"activationEvent":"*"}
+[2019-05-21 13:18:57.680] [exthost] [info] ExtensionService#loadCommonJSModule /home/gabo/.vscode/extensions/streetsidesoftware.code-spell-checker-spanish-1.0.1/out/src/extension
+[2019-05-21 13:18:57.748] [exthost] [info] ExtensionService#_doActivateExtension vsciot-vscode.vscode-arduino {"startup":true,"activationEvent":"*"}
+[2019-05-21 13:18:57.748] [exthost] [info] ExtensionService#loadCommonJSModule /home/gabo/.vscode/extensions/vsciot-vscode.vscode-arduino-0.2.25/out/src/extension
